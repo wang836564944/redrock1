@@ -1,0 +1,6 @@
+public class HelloWorld {
+   public static viod main(strings [] args)
+   int i = 10
+   { system.out.println("i")
+
+}
